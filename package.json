@@ -1,0 +1,19 @@
+{
+  "name": "fakturomania",
+  "version": "1.0.0",
+  "description": "Fakturomania API wrapper for JavaScript",
+  "main": "src/fakturomania.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fakturomania",
+    "wrapper",
+    "api"
+  ],
+  "author": "Krzysztof Haller",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
